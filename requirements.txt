@@ -1,3 +1,4 @@
+bitsandbytes==0.37.2
 accelerate
 appdirs
 loralib
